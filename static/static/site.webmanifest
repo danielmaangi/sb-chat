@@ -1,6 +1,6 @@
 {
-  "name": "Open WebUI",
-  "short_name": "WebUI",
+  "name": "StatBricks",
+  "short_name": "StatBricks",
   "icons": [
     {
       "src": "/static/web-app-manifest-192x192.png",
